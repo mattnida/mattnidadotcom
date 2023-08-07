@@ -1,0 +1,70 @@
+
+body {
+  font-family: 'Lora';
+  background-color: #fff;
+  color: #000;
+  font-size: 100%;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+a {
+  color: #F74F9E;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFC67;
+  background-color: #F74F9E;
+}
+
+
+div.main {
+  width: 480px;
+  margin-left: 40px;
+}
+
+
+/* Page title */
+
+h2 {
+  font-size: 2.1em;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 0px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+h2 a {
+  color: #FFFC67;
+  font-weight: 700;
+  text-decoration: none;
+  background-color: #F74F9E;
+}
+
+h2 a:hover {
+  color: #F74F9E;
+  background-color: #FFFC67;
+  text-decoration: none;
+}
+
+/* Main para */
+
+h3 {  
+  font-size: 0.85em;
+  font-weight: 400;
+}
+
+/* Nav menu */
+
+h4 {
+  font-size: 0.85em;
+  color: #F74F9E;
+}
+
+h5 {
+  font-size: 0.75em;
+  font-weight: 400;
+}
